@@ -1,0 +1,67 @@
+export const PRODUCTS = [{
+    id: 33,
+    name: 'Dragon Ball Z Kai: Part One [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/9688_front.jpg?t=1405594440',
+},
+{
+    id: 34,
+    name: 'Dragon Ball Z Kai: Part Two [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/12855_front.jpg?t=1405594715',
+},
+{
+    id: 24,
+    name: 'Dragon Ball Z Kai: Part Three [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/16105_front.jpg?t=1405595163',
+},
+{
+    id: 25,
+    name: 'Dragon Ball Z Kai: Part Four [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/18016_front.jpg?t=1405595931',
+},
+{
+    id: 26,
+    name: 'Dragon Ball Z Kai: Part Five [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/20898_front.jpg?t=1405596021',
+},
+{
+    id: 27,
+    name: 'Dragon Ball Z Kai: Part Six [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/25600_front.jpg?t=1405596064',
+},
+{
+    id: 28,
+    name: 'Dragon Ball Z Kai: Part Seven [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/35582_front.jpg?t=1405596106',
+},
+{
+    id: 29,
+    name: 'Dragon Ball Z Kai: Part Eight [Blu-ray]',
+    price: 99.99,
+    image: 'https://images.static-bluray.com/movies/covers/40571_front.jpg?t=1405591019',
+},
+{
+    id: 30,
+    name: 'Dragon Ball Z Kai: The Final Chapters Part One [Blu-ray]',
+    price: 99.99,
+    image: 'https://i0.wp.com/kanzenshuu.com/wp-content/uploads/2017/01/zkai_boo_part1_cover_bd.jpg',
+},
+{
+    id: 31,
+    name: 'Dragon Ball Z Kai: The Final Chapters Part Two [Blu-ray]',
+    price: 99.99,
+    image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5787/5787204_so.jpg',
+},
+{
+    id: 32,
+    name: 'Dragon Ball Z Kai: The Final Chapters Part Three [Blu-ray]',
+    price: 99.99,
+    image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5837/5837712_so.jpg',
+},
+]
